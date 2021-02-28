@@ -1,0 +1,20 @@
+.menu-bar{
+    background-color: rgb(22, 11, 117);
+    overflow: hidden;
+    padding-top: 15px;
+    text-align: center;
+    height: 40px;
+}
+
+.menu-bar a{
+    font-weight: bold;
+    padding: 16px 18px;
+    color: white;
+
+}
+
+.menu-bar a:hover{
+    color: blueviolet;
+    background-color:black;
+    
+}
